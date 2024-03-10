@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋<br>Welcome to my GitHub profile
 
-<!--
-**Criomby/Criomby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My most recent projects are always pinned.
+- 🌱 I’m learning Rust, but also want to dive deeper into React.
+- 💬 Ask me about anything tech-related, 3D printing and TCGs (MTG, FaB).
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me via: criomby@protonmail.com
+
+<br>
+
+⚡ Fun fact: Mozilla's "Firefox" isn't actually a fox but a brown Panda :panda_face:
