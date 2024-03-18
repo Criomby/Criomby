@@ -23,4 +23,4 @@
 
 📫 Reach me via: criomby@protonmail.com
 
-💬 Ask me about anything tech-related, 3D printing, TCGs (MTG, FaB) and bikes (with & without an engine).
+💬 Ask me about anything tech-related, 3D printing and bikes (with & without an engine).
