@@ -22,6 +22,7 @@
 - Tools:
 
 [<img alt="linux" src="https://github.com/Criomby/Criomby/assets/86114549/6d9d310c-7c8b-4279-a36c-e478039a5fea" height="50px">](#)
+[<img alt="debian" src="https://github.com/Criomby/Criomby/assets/86114549/04302c07-5c36-4193-be14-4e732f7b27db" height="50px">](https://www.debian.org/)
 [<img alt="docker" src="https://github.com/Criomby/Criomby/assets/86114549/5095504b-a997-453a-bbae-f84abe59e0f5" height="50px">](https://www.docker.com/)
 [<img alt="google-cloud" src="https://github.com/Criomby/Criomby/assets/86114549/699a2ea1-de73-462c-956d-e4d5acb77438" height="50px">](https://cloud.google.com/?hl=en)
 
