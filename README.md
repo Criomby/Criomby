@@ -1,8 +1,10 @@
-### Hi, I'm Philippe 👋
+# Hi, I'm Philippe 👋
 
 *My most recent & active projects are always pinned.*
 
-### What I'm currently using and/or learning:
+<br>
+
+## What I'm currently using and/or learning:
 
 *Hover/click mouse over any logo to see info*
 
@@ -28,7 +30,7 @@
 [<img alt="docker" src="https://github.com/Criomby/Criomby/assets/86114549/5095504b-a997-453a-bbae-f84abe59e0f5" height="50px">](https://www.docker.com/)
 [<img alt="google-cloud" src="https://github.com/Criomby/Criomby/assets/86114549/699a2ea1-de73-462c-956d-e4d5acb77438" height="50px">](https://cloud.google.com/?hl=en)
 
-<br>
+<br><br>
 
 📫 Reach me via: criomby@protonmail.com
 
