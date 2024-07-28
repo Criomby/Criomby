@@ -6,7 +6,7 @@
 
 ## What I'm currently using and/or learning:
 
-*Hover/click over any logo to see info*
+*Hover/click any logo to see info*
 
 - **Languages:**
 
