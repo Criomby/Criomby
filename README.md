@@ -33,6 +33,20 @@
 
 <br><br>
 
+## What I think everyone should be using
+
+Document management:<br>
+[<img alt="Paperless-ngx" src="https://github.com/user-attachments/assets/4fdd2343-46d7-4df9-812c-9aa0ac1f7c65" height="100px">](https://github.com/paperless-ngx/paperless-ngx)
+
+Personal finances:<br><br>
+[<img alt="ActualBudget" src="https://github.com/user-attachments/assets/8ebad2ff-68fb-44b2-bb5b-27191205b75d" height="70px">](https://github.com/actualbudget/actual)
+
+Ad-blocking (use responsibly):<br><br>
+[<img alt="Pi-hole" src="https://github.com/user-attachments/assets/7bc15b42-6153-440e-9f2b-9851022651b9" height="120px">](https://github.com/pi-hole)
+
+<br>
+<hr>
+
 📫 Reach me via: criomby@protonmail.com
 
-💬 Ask me about anything tech-related, 3D printing and bikes (with & without an engine).
+💬 Ask me about self-hosting, 3D printing and bikes (with & without an engine).
