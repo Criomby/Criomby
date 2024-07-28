@@ -42,7 +42,7 @@ Personal finances:<br><br>
 [<img alt="ActualBudget" src="https://github.com/user-attachments/assets/8ebad2ff-68fb-44b2-bb5b-27191205b75d" height="70px">](https://github.com/actualbudget/actual)
 
 Ad-blocking (use responsibly):<br><br>
-[<img alt="Pi-hole" src="https://github.com/user-attachments/assets/7bc15b42-6153-440e-9f2b-9851022651b9" height="120px">](https://github.com/pi-hole)
+[<img alt="Pi-hole" src="https://github.com/user-attachments/assets/7bc15b42-6153-440e-9f2b-9851022651b9" height="120px">](https://github.com/pi-hole/pi-hole)
 
 <br>
 <hr>
