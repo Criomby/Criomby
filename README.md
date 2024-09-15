@@ -8,7 +8,7 @@
 
 *Hover/click any logo to see info*
 
-- **Languages:**
+- ### Languages:
 
 [<img alt="python" src="https://github.com/Criomby/Criomby/assets/86114549/e451d6ce-8cc8-4e8a-aebf-3cd5e3343802" height="50px">](https://www.python.org/)
 [<img alt="javascript" src="https://github.com/Criomby/Criomby/assets/86114549/500070f9-1ba6-4731-8169-2bd6e152a333" height="50px">](#)
@@ -16,7 +16,7 @@
 [<img alt="rust" src="https://github.com/Criomby/Criomby/assets/86114549/3021c9f8-0b30-479d-b44a-9c06a40dc3b0" height="50px">](https://www.rust-lang.org/)
 [<img alt="bash" src="https://github.com/Criomby/Criomby/assets/86114549/9db20c3f-5b53-47b2-9aea-b5825de868eb" height="50px">](#)
 
-- **Frameworks:**
+- ### Frameworks:
 
   - Backend:
 [<img alt="flask" src="https://github.com/Criomby/Criomby/assets/86114549/c9cc5e28-d723-4dae-bc8e-306e25d08c2b" height="50px">](https://flask.palletsprojects.com/)
@@ -27,7 +27,7 @@
 [<img alt="angular" src="https://github.com/Criomby/Criomby/assets/86114549/cd7b4196-4236-488e-885a-873b19d4ce33" height="50px">](https://angular.io/)
 [<img alt="vuejs" src="https://github.com/user-attachments/assets/85a32517-3da1-46a5-95e1-08bc5d05c626" height="50px">](https://vuejs.org/)
 
-- **Tools:**
+- ### Tools:
 
 [<img alt="docker" src="https://github.com/Criomby/Criomby/assets/86114549/5095504b-a997-453a-bbae-f84abe59e0f5" height="50px">](https://www.docker.com/)
 [<img alt="google-cloud" src="https://github.com/Criomby/Criomby/assets/86114549/699a2ea1-de73-462c-956d-e4d5acb77438" height="50px">](https://cloud.google.com/?hl=en)
