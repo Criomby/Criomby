@@ -18,10 +18,14 @@
 
 - **Frameworks:**
 
-[<img alt="nextjs" src="https://github.com/Criomby/Criomby/assets/86114549/7a286a52-1669-456e-940e-c0a0739eb0f0" height="50px">](https://nextjs.org/)
-[<img alt="react" src="https://github.com/Criomby/Criomby/assets/86114549/20ced4ec-f67e-4393-847f-b307d6137cbd" height="50px">](https://react.dev/)
+  - Backend:
 [<img alt="flask" src="https://github.com/Criomby/Criomby/assets/86114549/c9cc5e28-d723-4dae-bc8e-306e25d08c2b" height="50px">](https://flask.palletsprojects.com/)
+[<img alt="fastapi" src="https://github.com/user-attachments/assets/6c35b3ca-d5ab-4eac-83dd-9686a1119054" height="50px">](https://fastapi.tiangolo.com/)
+
+  - Frontend:
+[<img alt="react" src="https://github.com/Criomby/Criomby/assets/86114549/20ced4ec-f67e-4393-847f-b307d6137cbd" height="50px">](https://react.dev/)
 [<img alt="angular" src="https://github.com/Criomby/Criomby/assets/86114549/cd7b4196-4236-488e-885a-873b19d4ce33" height="50px">](https://angular.io/)
+[<img alt="vuejs" src="https://github.com/user-attachments/assets/85a32517-3da1-46a5-95e1-08bc5d05c626" height="50px">](https://vuejs.org/)
 
 - **Tools:**
 
