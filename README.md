@@ -45,8 +45,16 @@ Document management:<br>
 Personal finances:<br><br>
 [<img alt="ActualBudget" src="https://github.com/user-attachments/assets/8ebad2ff-68fb-44b2-bb5b-27191205b75d" height="70px">](https://github.com/actualbudget/actual)
 
+<br>
+
 Ad-blocking (use responsibly):<br><br>
 [<img alt="Pi-hole" src="https://github.com/user-attachments/assets/7bc15b42-6153-440e-9f2b-9851022651b9" height="120px">](https://github.com/pi-hole/pi-hole)
+
+<br>
+
+My personal OS choice:
+
+[<img alt="Debian" src="https://github.com/user-attachments/assets/d14f49c4-d191-466a-80c9-58250532f6ae" height="120px">](https://www.debian.org/)
 
 <br>
 <hr>
