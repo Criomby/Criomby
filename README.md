@@ -1,12 +1,8 @@
 # Hi, I'm Philippe 👋
 
-*My most recent & active projects are always pinned.*
-
-<br>
-
 ## What I'm currently using and/or learning:
 
-*Hover/click any logo to see info*
+*click any logo to see more info*
 
 - ### Languages:
 
@@ -44,6 +40,10 @@
 <br><br>
 
 ## What I think everyone should be using
+
+> **Put the fun back into computing. Use Linux, BSD.**
+
+<br>
 
 Document management:<br>
 [<img alt="Paperless-ngx" src="https://github.com/user-attachments/assets/4fdd2343-46d7-4df9-812c-9aa0ac1f7c65" height="100px">](https://github.com/paperless-ngx/paperless-ngx)
