@@ -13,8 +13,8 @@
 [<img alt="python" src="https://github.com/Criomby/Criomby/assets/86114549/e451d6ce-8cc8-4e8a-aebf-3cd5e3343802" height="50px">](https://www.python.org/)
 [<img alt="javascript" src="https://github.com/Criomby/Criomby/assets/86114549/500070f9-1ba6-4731-8169-2bd6e152a333" height="50px">](#)
 [<img alt="typescript" src="https://github.com/Criomby/Criomby/assets/86114549/7fc34e57-beae-44e7-bc94-759f3fb817a5" height="50px">](https://www.typescriptlang.org/)
-[<img alt="rust" src="https://github.com/Criomby/Criomby/assets/86114549/3021c9f8-0b30-479d-b44a-9c06a40dc3b0" height="50px">](https://www.rust-lang.org/)
 [<img alt="bash" src="https://github.com/Criomby/Criomby/assets/86114549/9db20c3f-5b53-47b2-9aea-b5825de868eb" height="50px">](#)
+[<img alt="rust" src="https://github.com/Criomby/Criomby/assets/86114549/3021c9f8-0b30-479d-b44a-9c06a40dc3b0" height="50px">](https://www.rust-lang.org/)
 
 - ### Frameworks:
 
@@ -27,13 +27,19 @@
 [<img alt="angular" src="https://github.com/Criomby/Criomby/assets/86114549/cd7b4196-4236-488e-885a-873b19d4ce33" height="50px">](https://angular.io/)
 [<img alt="vuejs" src="https://github.com/user-attachments/assets/85a32517-3da1-46a5-95e1-08bc5d05c626" height="50px">](https://vuejs.org/)
 
-- ### Tools:
+- ### Platforms / Tools:
 
 [<img alt="docker" src="https://github.com/Criomby/Criomby/assets/86114549/5095504b-a997-453a-bbae-f84abe59e0f5" height="50px">](https://www.docker.com/)
 [<img alt="google-cloud" src="https://github.com/Criomby/Criomby/assets/86114549/699a2ea1-de73-462c-956d-e4d5acb77438" height="50px">](https://cloud.google.com/?hl=en)
+[<img alt="google-cloud" src="https://github.com/user-attachments/assets/8d2c2ed2-669c-4e24-9264-8df9627e9751" height="50px">](https://azure.microsoft.com/en-gb/)
 [<img alt="linux" src="https://github.com/Criomby/Criomby/assets/86114549/6d9d310c-7c8b-4279-a36c-e478039a5fea" height="50px">](#)
-[<img alt="debian" src="https://github.com/Criomby/Criomby/assets/86114549/04302c07-5c36-4193-be14-4e732f7b27db" height="50px">](https://www.debian.org/)
 [<img alt="macOS" src="https://github.com/Criomby/Criomby/assets/86114549/08c8004a-5f25-4848-858c-c429f73503d0" height="50px">](https://www.apple.com/de/macos/)
+
+- ### Distros:
+
+[<img alt="Debian" src="https://github.com/user-attachments/assets/d14f49c4-d191-466a-80c9-58250532f6ae" height="90px">](https://www.debian.org/)
+[<img alt="NixOS" src="https://github.com/user-attachments/assets/6b51ccfc-671d-4759-8bc8-a221cacfa7c4" height="90px">](https://nixos.org)
+[<img alt="openSUSE" src="https://github.com/user-attachments/assets/3ed20355-0610-48ac-a579-a5c5e1790ba8" height="75px">](https://www.opensuse.org)
 
 <br><br>
 
@@ -49,12 +55,6 @@ Personal finances:<br><br>
 
 Ad-blocking (use responsibly):<br><br>
 [<img alt="Pi-hole" src="https://github.com/user-attachments/assets/7bc15b42-6153-440e-9f2b-9851022651b9" height="120px">](https://github.com/pi-hole/pi-hole)
-
-<br>
-
-My personal OS choice:
-
-[<img alt="Debian" src="https://github.com/user-attachments/assets/d14f49c4-d191-466a-80c9-58250532f6ae" height="120px">](https://www.debian.org/)
 
 <br>
 <hr>
