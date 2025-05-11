@@ -10,18 +10,6 @@
 [<img alt="javascript" src="https://github.com/Criomby/Criomby/assets/86114549/500070f9-1ba6-4731-8169-2bd6e152a333" height="50px">](#)
 [<img alt="typescript" src="https://github.com/Criomby/Criomby/assets/86114549/7fc34e57-beae-44e7-bc94-759f3fb817a5" height="50px">](https://www.typescriptlang.org/)
 [<img alt="bash" src="https://github.com/Criomby/Criomby/assets/86114549/9db20c3f-5b53-47b2-9aea-b5825de868eb" height="50px">](#)
-[<img alt="rust" src="https://github.com/Criomby/Criomby/assets/86114549/3021c9f8-0b30-479d-b44a-9c06a40dc3b0" height="50px">](https://www.rust-lang.org/)
-
-- ### Frameworks:
-
-  - Backend:
-[<img alt="flask" src="https://github.com/Criomby/Criomby/assets/86114549/c9cc5e28-d723-4dae-bc8e-306e25d08c2b" height="50px">](https://flask.palletsprojects.com/)
-[<img alt="fastapi" src="https://github.com/user-attachments/assets/6c35b3ca-d5ab-4eac-83dd-9686a1119054" height="50px">](https://fastapi.tiangolo.com/)
-
-  - Frontend:
-[<img alt="react" src="https://github.com/Criomby/Criomby/assets/86114549/20ced4ec-f67e-4393-847f-b307d6137cbd" height="50px">](https://react.dev/)
-[<img alt="angular" src="https://github.com/Criomby/Criomby/assets/86114549/cd7b4196-4236-488e-885a-873b19d4ce33" height="50px">](https://angular.io/)
-[<img alt="vuejs" src="https://github.com/user-attachments/assets/85a32517-3da1-46a5-95e1-08bc5d05c626" height="50px">](https://vuejs.org/)
 
 - ### Platforms / Tools:
 
@@ -34,8 +22,9 @@
 - ### Distros:
 
 [<img alt="Debian" src="https://github.com/user-attachments/assets/d14f49c4-d191-466a-80c9-58250532f6ae" height="90px">](https://www.debian.org/)
+[<img alt="Fedora" src="https://github.com/user-attachments/assets/a7fcc1f7-b1e4-4210-8905-99810030c18d" height="90px">](https://fedoraproject.org)
 [<img alt="NixOS" src="https://github.com/user-attachments/assets/6b51ccfc-671d-4759-8bc8-a221cacfa7c4" height="90px">](https://nixos.org)
-[<img alt="openSUSE" src="https://github.com/user-attachments/assets/3ed20355-0610-48ac-a579-a5c5e1790ba8" height="75px">](https://www.opensuse.org)
+
 
 <br><br>
 
@@ -53,7 +42,7 @@ Personal finances:<br><br>
 
 <br>
 
-Ad-blocking (use responsibly):<br><br>
+Ad-blocking:<br><br>
 [<img alt="Pi-hole" src="https://github.com/user-attachments/assets/7bc15b42-6153-440e-9f2b-9851022651b9" height="120px">](https://github.com/pi-hole/pi-hole)
 
 <br>
@@ -61,4 +50,4 @@ Ad-blocking (use responsibly):<br><br>
 
 📫 Reach me via: criomby@protonmail.com
 
-💬 Ask me about self-hosting, 3D printing and bikes (with & without an engine).
+💬 Ask me about self-hosting, tech stuff and bikes (with & without an engine).
