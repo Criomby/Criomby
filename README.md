@@ -7,15 +7,15 @@
 - ### Languages:
 
 [<img alt="python" src="https://github.com/Criomby/Criomby/assets/86114549/e451d6ce-8cc8-4e8a-aebf-3cd5e3343802" height="50px">](https://www.python.org/)
-[<img alt="javascript" src="https://github.com/Criomby/Criomby/assets/86114549/500070f9-1ba6-4731-8169-2bd6e152a333" height="50px">](#)
 [<img alt="typescript" src="https://github.com/Criomby/Criomby/assets/86114549/7fc34e57-beae-44e7-bc94-759f3fb817a5" height="50px">](https://www.typescriptlang.org/)
+[<img alt="go" src="https://github.com/user-attachments/assets/8b2eba65-eca3-4b12-a56c-9a336fe3e811" height="50px">](https://go.dev/)
 [<img alt="bash" src="https://github.com/Criomby/Criomby/assets/86114549/9db20c3f-5b53-47b2-9aea-b5825de868eb" height="50px">](#)
 
 - ### Platforms / Tools:
 
 [<img alt="docker" src="https://github.com/Criomby/Criomby/assets/86114549/5095504b-a997-453a-bbae-f84abe59e0f5" height="50px">](https://www.docker.com/)
 [<img alt="google-cloud" src="https://github.com/Criomby/Criomby/assets/86114549/699a2ea1-de73-462c-956d-e4d5acb77438" height="50px">](https://cloud.google.com/?hl=en)
-[<img alt="google-cloud" src="https://github.com/user-attachments/assets/8d2c2ed2-669c-4e24-9264-8df9627e9751" height="50px">](https://azure.microsoft.com/en-gb/)
+[<img alt="azure" src="https://github.com/user-attachments/assets/8d2c2ed2-669c-4e24-9264-8df9627e9751" height="50px">](https://azure.microsoft.com/en-gb/)
 [<img alt="linux" src="https://github.com/Criomby/Criomby/assets/86114549/6d9d310c-7c8b-4279-a36c-e478039a5fea" height="50px">](#)
 [<img alt="macOS" src="https://github.com/Criomby/Criomby/assets/86114549/08c8004a-5f25-4848-858c-c429f73503d0" height="50px">](https://www.apple.com/de/macos/)
 
